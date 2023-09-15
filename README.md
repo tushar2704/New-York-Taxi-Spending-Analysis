@@ -12,8 +12,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ## Problem definition
-Predict the average money spent on taxi rides for each region of New York per given day and hour.
-This problem is a supervised regression problem. Supervised because we have the actual value of the value we’re trying to predict and regression because what we’re trying to predict is a continuous variable (as opposed to categorical).
+The New York Taxi Spending Analysis project is a data analysis and visualization project aimed at understanding and gaining insights into the spending patterns of taxi riders in New York City. This project utilizes publicly available data from New York City's Taxi and Limousine Commission to explore various aspects of taxi spending, such as fares, tips, and trip durations.Predicting the average money spent on taxi rides for each region of New York per given day and hour.
+
 ## Project Structure
 
 The project repository is organized as follows:
