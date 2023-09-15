@@ -36,7 +36,7 @@ The project repository is organized as follows:
 
 ```
 
-## Data problems I fixed
+## Data Solutions
 
 ![Negative and zero values graph](/images/Negative_and_zero_values_graph.png)
 
